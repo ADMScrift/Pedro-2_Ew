@@ -17,7 +17,7 @@ OrionLib:MakeNotification({
 })
 
 OrionLib:MakeNotification({
-	Name = "Info!",
+	Name = "Informações!",
 	Content = "Criador por Account Deleted,",
 	Image = "rbxassetid://4483345998",
 	Time = 10
